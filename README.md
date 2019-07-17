@@ -8,6 +8,7 @@ Image rotator
 (deep-learning computer vision task)
 
 Jupyter+zip.file+numpy.file ----> https://drive.google.com/open?id=1MJ8rYCTSyptI16DWuRs8oLbRSxzy3CBP
+
 ///Before you start reading, open Notebook and follow comments as well///
 
 First of all I tried to analyse data, if format is correct and so on. For this purpose I was using pandas. As it was written in task, there were two columns of names and labels of images. 
