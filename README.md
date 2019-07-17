@@ -9,7 +9,7 @@ Image rotator
 
 Jupyter+zip.file+numpy.file ----> https://drive.google.com/open?id=1MJ8rYCTSyptI16DWuRs8oLbRSxzy3CBP
 
-///Before you start reading, open Notebook and follow comments as well///
+///Before you start reading, open Jupyter Notebook and follow comments as well///
 
 First of all I tried to analyse data, if format is correct and so on. For this purpose I was using pandas. As it was written in task, there were two columns of names and labels of images. 
 So next step was data preparation. I could use function in eval.py but I decided to declare dict of labeled names. After that I have started preparing my dataset for training. To do this I had to separate images into different folders (by label).
