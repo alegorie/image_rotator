@@ -4,8 +4,11 @@ NN solving the task: of turning image of right orientation - upright, rotated_le
 
 
 Image rotator
+
 (deep-learning computer vision task)
+
 ///Before you start reading, open Notebook and follow comments as well///
+
 First of all I tried to analyse data, if format is correct and so on. For this purpose I was using pandas. As it was written in task, there were two columns of names and labels of images. 
 So next step was data preparation. I could use function in eval.py but I decided to declare dict of labeled names. After that I have started preparing my dataset for training. To do this I had to separate images into different folders (by label).
 	Then randomly choosing them, I created array with train data, which I divided into two datasets (train+test).
